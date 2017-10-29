@@ -1,0 +1,19 @@
+# vim
+*~
+*.swp
+
+# Python
+*.py[cod]
+__pycache__
+_venv/
+
+# Sphinx
+_build/
+
+# C++
+*.o
+*.a
+
+# Mac
+.DS_Store
+
